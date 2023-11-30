@@ -1,0 +1,14 @@
+C:\Users\skier\Documents\Code\CTF2023\Flag3Beginner\TieFIghter\obj\Debug\net6.0\TieFIghter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skier\Documents\Code\CTF2023\Flag3Beginner\TieFIghter\obj\Debug\net6.0\TieFIghter.AssemblyInfoInputs.cache
+C:\Users\skier\Documents\Code\CTF2023\Flag3Beginner\TieFIghter\obj\Debug\net6.0\TieFIghter.AssemblyInfo.cs
+C:\Users\skier\Documents\Code\CTF2023\Flag3Beginner\TieFIghter\obj\Debug\net6.0\TieFIghter.csproj.CoreCompileInputs.cache
+C:\Users\skier\Documents\Code\CTF2023\Flag3Beginner\TieFIghter\bin\Debug\net6.0\TieFIghter.exe
+C:\Users\skier\Documents\Code\CTF2023\Flag3Beginner\TieFIghter\bin\Debug\net6.0\TieFIghter.deps.json
+C:\Users\skier\Documents\Code\CTF2023\Flag3Beginner\TieFIghter\bin\Debug\net6.0\TieFIghter.runtimeconfig.json
+C:\Users\skier\Documents\Code\CTF2023\Flag3Beginner\TieFIghter\bin\Debug\net6.0\TieFIghter.dll
+C:\Users\skier\Documents\Code\CTF2023\Flag3Beginner\TieFIghter\bin\Debug\net6.0\TieFIghter.pdb
+C:\Users\skier\Documents\Code\CTF2023\Flag3Beginner\TieFIghter\obj\Debug\net6.0\TieFIghter.dll
+C:\Users\skier\Documents\Code\CTF2023\Flag3Beginner\TieFIghter\obj\Debug\net6.0\refint\TieFIghter.dll
+C:\Users\skier\Documents\Code\CTF2023\Flag3Beginner\TieFIghter\obj\Debug\net6.0\TieFIghter.pdb
+C:\Users\skier\Documents\Code\CTF2023\Flag3Beginner\TieFIghter\obj\Debug\net6.0\TieFIghter.genruntimeconfig.cache
+C:\Users\skier\Documents\Code\CTF2023\Flag3Beginner\TieFIghter\obj\Debug\net6.0\ref\TieFIghter.dll
