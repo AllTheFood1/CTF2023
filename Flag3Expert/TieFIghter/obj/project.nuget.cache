@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3G218UqmbhYbxPAZ1r2T1osGu9ZTzx1d/MbeukUhDZHhhDAnpMPbn0V5kwgHat+z6JmMl2kjqElxY8D4grWjGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skier\\Documents\\Code\\CTF2023\\Flag3Beginner\\TieFIghter\\TieFIghter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skier\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.22\\microsoft.aspnetcore.app.runtime.win-x64.6.0.22.nupkg.sha512",
+    "C:\\Users\\skier\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.22\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.22.nupkg.sha512",
+    "C:\\Users\\skier\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.22\\microsoft.netcore.app.runtime.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

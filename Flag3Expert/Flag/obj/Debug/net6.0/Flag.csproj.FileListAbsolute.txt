@@ -1,0 +1,14 @@
+C:\Users\skier\Documents\Code\CTF2023\Flag3Beginner\Flag\bin\Debug\net6.0\Flag.exe
+C:\Users\skier\Documents\Code\CTF2023\Flag3Beginner\Flag\bin\Debug\net6.0\Flag.deps.json
+C:\Users\skier\Documents\Code\CTF2023\Flag3Beginner\Flag\bin\Debug\net6.0\Flag.runtimeconfig.json
+C:\Users\skier\Documents\Code\CTF2023\Flag3Beginner\Flag\bin\Debug\net6.0\Flag.dll
+C:\Users\skier\Documents\Code\CTF2023\Flag3Beginner\Flag\bin\Debug\net6.0\Flag.pdb
+C:\Users\skier\Documents\Code\CTF2023\Flag3Beginner\Flag\obj\Debug\net6.0\Flag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skier\Documents\Code\CTF2023\Flag3Beginner\Flag\obj\Debug\net6.0\Flag.AssemblyInfoInputs.cache
+C:\Users\skier\Documents\Code\CTF2023\Flag3Beginner\Flag\obj\Debug\net6.0\Flag.AssemblyInfo.cs
+C:\Users\skier\Documents\Code\CTF2023\Flag3Beginner\Flag\obj\Debug\net6.0\Flag.csproj.CoreCompileInputs.cache
+C:\Users\skier\Documents\Code\CTF2023\Flag3Beginner\Flag\obj\Debug\net6.0\Flag.dll
+C:\Users\skier\Documents\Code\CTF2023\Flag3Beginner\Flag\obj\Debug\net6.0\refint\Flag.dll
+C:\Users\skier\Documents\Code\CTF2023\Flag3Beginner\Flag\obj\Debug\net6.0\Flag.pdb
+C:\Users\skier\Documents\Code\CTF2023\Flag3Beginner\Flag\obj\Debug\net6.0\Flag.genruntimeconfig.cache
+C:\Users\skier\Documents\Code\CTF2023\Flag3Beginner\Flag\obj\Debug\net6.0\ref\Flag.dll
