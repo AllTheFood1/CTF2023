@@ -14,5 +14,11 @@
 		<PackageReference Include="System.Diagnostics.Process" Version="4.3.0" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <None Update="FilePath.txt">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </None>
+	</ItemGroup>
+
 
 </Project>

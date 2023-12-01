@@ -7,9 +7,11 @@ namespace Program
         static void Main(string[] args)
         {
             Process[] pname = Process.GetProcessesByName("TieFighter");
-            if (pname.Length == 0)
+            string textFile = File.ReadAllText("FilePath.txt");
+            string droidFile = File.ReadAllText(textFile);
+            if (pname.Length == 0 && !droidFile.Contains("61 67 76 62"))
             {
-                Console.WriteLine("This is the password");
+                Console.WriteLine("The Password is iAmyOURfA-QUACK!");
                 Console.ReadLine();
             }
         }
