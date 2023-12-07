@@ -1,0 +1,14 @@
+C:\Users\skier\Documents\Code\CTF2023\Flag5Beginner\Notepad\obj\Debug\net6.0\Notepad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skier\Documents\Code\CTF2023\Flag5Beginner\Notepad\obj\Debug\net6.0\Notepad.AssemblyInfoInputs.cache
+C:\Users\skier\Documents\Code\CTF2023\Flag5Beginner\Notepad\obj\Debug\net6.0\Notepad.AssemblyInfo.cs
+C:\Users\skier\Documents\Code\CTF2023\Flag5Beginner\Notepad\obj\Debug\net6.0\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\skier\Documents\Code\CTF2023\Flag5Beginner\Notepad\bin\Debug\net6.0\Notepad.exe
+C:\Users\skier\Documents\Code\CTF2023\Flag5Beginner\Notepad\bin\Debug\net6.0\Notepad.deps.json
+C:\Users\skier\Documents\Code\CTF2023\Flag5Beginner\Notepad\bin\Debug\net6.0\Notepad.runtimeconfig.json
+C:\Users\skier\Documents\Code\CTF2023\Flag5Beginner\Notepad\bin\Debug\net6.0\Notepad.dll
+C:\Users\skier\Documents\Code\CTF2023\Flag5Beginner\Notepad\bin\Debug\net6.0\Notepad.pdb
+C:\Users\skier\Documents\Code\CTF2023\Flag5Beginner\Notepad\obj\Debug\net6.0\Notepad.dll
+C:\Users\skier\Documents\Code\CTF2023\Flag5Beginner\Notepad\obj\Debug\net6.0\refint\Notepad.dll
+C:\Users\skier\Documents\Code\CTF2023\Flag5Beginner\Notepad\obj\Debug\net6.0\Notepad.pdb
+C:\Users\skier\Documents\Code\CTF2023\Flag5Beginner\Notepad\obj\Debug\net6.0\Notepad.genruntimeconfig.cache
+C:\Users\skier\Documents\Code\CTF2023\Flag5Beginner\Notepad\obj\Debug\net6.0\ref\Notepad.dll
