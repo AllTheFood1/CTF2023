@@ -12,3 +12,4 @@ C:\Users\skier\Documents\Code\CTF2023\Flag5Beginner\Notepad\obj\Debug\net6.0\ref
 C:\Users\skier\Documents\Code\CTF2023\Flag5Beginner\Notepad\obj\Debug\net6.0\Notepad.pdb
 C:\Users\skier\Documents\Code\CTF2023\Flag5Beginner\Notepad\obj\Debug\net6.0\Notepad.genruntimeconfig.cache
 C:\Users\skier\Documents\Code\CTF2023\Flag5Beginner\Notepad\obj\Debug\net6.0\ref\Notepad.dll
+C:\Users\skier\Documents\Code\CTF2023\Flag5Beginner\Notepad\bin\Debug\net6.0\directoryPath.txt
